@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hangman App</string>
+    <string name="choose_letter">Hangman </string>
+</resources>
